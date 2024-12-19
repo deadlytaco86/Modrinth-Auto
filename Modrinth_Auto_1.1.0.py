@@ -220,11 +220,5 @@ if __name__ == "__main__":
         with open("error_log.txt", "w") as f:
             f.write(str(e))
 
-
-# https://www.youtube.com/@freepythoncode/videos
-
 # pyinstaller "Modrinth Auto.spec"
 # pyinstaller Modrinth_Auto_1.0.0.py --onefile --name "Modrinth Auto" --hidden-import=bs4 --hidden-import=customtkinter --hidden-import=requests --hidden-import=time --hidden-import=json --hidden-import=sys --add-data="c:/Desktop/Modrinth Auto/base_links.json":.
-# ./"Modrinth Auto.exe"
-# ./dist/"Modrinth Auto.exe"
-# https://drive.google.com/drive/folders/1t1P_gaPoAfe1jQdN0OYJotwfsnxcrJpo?usp=sharing
