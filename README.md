@@ -9,13 +9,13 @@ When you press the download button, the savefile will be updated. The next time 
 Future versions will allow you to search modrinth from within the program and add additional mods to a "my mods" section"
 
 # how to run
-If you choose to run the .py file:__
-install the libraries at the top, then run the program how you want to. Just keep in mind the location of the base_links.json file.__
-__
-If you choose to create an executable:__
-download all needed libraries as well as pyinstaller__
-You can use the provided .spec file. It is already configured so all you have to do is run the pyinstaller command: pyinstaller "Modrinth Auto.spec"__
-note that the json file has to be in the same folder as the script.__
-__
-If you want to download the executable directly:__
-go to https://drive.google.com/drive/folders/1t1P_gaPoAfe1jQdN0OYJotwfsnxcrJpo?usp=sharing__
+If you choose to run the .py file:\
+install the libraries at the top, then run the program how you want to. Just keep in mind the location of the base_links.json file.\
+\
+If you choose to create an executable:\
+download all needed libraries as well as pyinstaller\
+You can use the provided .spec file. It is already configured so all you have to do is run the pyinstaller command: pyinstaller "Modrinth Auto.spec"\
+note that the json file has to be in the same folder as the script.\
+\
+If you want to download the executable directly:\
+go to https://drive.google.com/drive/folders/1t1P_gaPoAfe1jQdN0OYJotwfsnxcrJpo?usp=sharing
