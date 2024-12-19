@@ -14,7 +14,7 @@ install the libraries at the top, then run the program how you want to. Just kee
 \
 If you choose to create an executable:\
 1) Download all needed libraries as well as pyinstaller\
-2) You can use the provided .spec file. It is already configured so all you have to do is run the pyinstaller command:\
+2) You can use the provided .spec file. Change the name to match the script name. Otherwise, it is already configured so all you have to do is run the pyinstaller command:\
 -> pyinstaller "Modrinth Auto.spec"\
 Note that the json file has to be in the same folder as the script.\
 \
